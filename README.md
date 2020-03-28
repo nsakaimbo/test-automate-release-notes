@@ -1,1 +1,2 @@
-# test-automate-release-notes
+- Test semantic PR title check
+- Add another commit
