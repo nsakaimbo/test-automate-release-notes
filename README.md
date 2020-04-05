@@ -5,3 +5,4 @@
 - Add another change (E)
 - Add another change (F)
 - Release the thing (v0.1.0)
+- Added a thing (G)
