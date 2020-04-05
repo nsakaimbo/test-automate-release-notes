@@ -7,3 +7,4 @@
 - Release the thing (v0.1.0)
 - Added a thing (G)
 - Added another thing (H)
+- Shiny new thing (I)
