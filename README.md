@@ -11,3 +11,4 @@
 - Feeding the kraken (J)
 - Here's an improvement! (K)
 - Change with scope (L)
+- Fix the logging things (M)
