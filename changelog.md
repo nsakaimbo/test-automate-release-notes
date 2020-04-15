@@ -1,0 +1,5 @@
+feat(updater): add shiny new thing (6590caa)
+feat: add changelog script (ab1d0ec)
+feat: new feature (65875e3)
+fix: whoops fixed it (3252461)
+improvement: much better (d800a72)
