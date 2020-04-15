@@ -8,3 +8,8 @@
 - Added a thing (G)
 - Added another thing (H)
 - Shiny new thing (I)
+- Feeding the kraken (J)
+- Here's an improvement! (K)
+- Change with scope (L)
+- Fix the logging things (M)
+- Add a new general thing
